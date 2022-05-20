@@ -2,9 +2,7 @@
 Class projects for cybersecurity bootcamp
 ## Automated ELK Stack Deployment – (Project-VM)
 The files in this repository were used to configure the network depicted below.
-Diagrams/3-20 Cloud Security Homework 12.png:
-![Proj2Network Diag io](https://user-images.githubusercontent.com/102110989/168937426-5d822985-e89f-4106-acf9-5db529e9d8d1.png)
-
+Diagrams/3-20 Cloud Security Homework 12.png
 
  
 
@@ -91,7 +89,8 @@ The playbook implements the following tasks:
 •	Finally, I ssh into project-VM to ensure the server is running.
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-![docker_ps_output](https://user-images.githubusercontent.com/102110989/168937293-cc054e65-f36b-44cb-9e94-c5664f0629ee.PNG)
+
+ 
 
 Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
 
@@ -131,3 +130,4 @@ Answer the following questions to fill in the blanks:
 - Which URL do you navigate to in order to check that the ELK server is running? http://20.119.63.1
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+
